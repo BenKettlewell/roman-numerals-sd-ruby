@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #Inscrutable Numerals
 
 This month's SDRuby Hack Night challenge has two parts two it. The first is to
@@ -94,3 +95,6 @@ See also: http://www.novaroma.org/via_romana/numbers.html
 
 [ioccc]: https://en.wikipedia.org/wiki/International_Obfuscated_C_Code_Contest
 [ucc]: https://en.wikipedia.org/wiki/Underhanded_C_Contest
+=======
+# roman-numerals-sd-ruby
+>>>>>>> 8cf7b2a5d8293fcf3feeca5de21945b122d227ff
